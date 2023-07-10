@@ -1,1 +1,2 @@
 # DBMS-PROJECT-ON-PLAYSTORE
+The project is about managing database in Play Store. It covers  collecting data on categories of applications and ratings,  size, reviews, number of downloads, description, price, offers of respective apps and userId, password, search history, updates,  purchases, wishlist, etc for respective users. It also covers collecting data on books and audiobooks, details of the application creators, etc.
